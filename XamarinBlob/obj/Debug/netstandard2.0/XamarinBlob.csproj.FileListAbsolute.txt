@@ -1,0 +1,13 @@
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamarinBlob.csprojAssemblyReference.cache
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamarinBlob.AssemblyInfoInputs.cache
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamarinBlob.AssemblyInfo.cs
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/bin/Debug/netstandard2.0/XamarinBlob.deps.json
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/bin/Debug/netstandard2.0/XamarinBlob.dll
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/bin/Debug/netstandard2.0/ref/XamarinBlob.dll
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/bin/Debug/netstandard2.0/XamarinBlob.pdb
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamarinBlob.dll
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/ref/XamarinBlob.dll
+/Users/junha/cave/testzone/XamarinBlob/XamarinBlob/obj/Debug/netstandard2.0/XamarinBlob.pdb
